@@ -1,0 +1,6 @@
+{
+  "name": "awsmaxxing",
+  "description": "The Field Guide to Getting Maximum Value from Every AWS Dollar. High-impact optimization playbooks, tips library, interactive cost calculators, and FinOps benchmarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
